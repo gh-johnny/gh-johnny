@@ -1,7 +1,7 @@
 # Hello World! I'm Johnny </💻> 
 
 
-### I'm a *Full Stack Software Developer* 
+### I'm a *Full Stack Web Developer* 
 
 ## Contact me! 👇
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcelo-furtado-romero-20916b257/)
